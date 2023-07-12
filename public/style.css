@@ -4,10 +4,10 @@ body {
 }
 
 h2 {
-  font-size: 24px;
-  padding: 20px;
-  color: #333;
+  font-size: 100px;
+  color: blue;
   text-align: center;
+  margin: 0;
 }
 
 #app-chat {
